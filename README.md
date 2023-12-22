@@ -1,6 +1,7 @@
 # URL Shortener API
 
 This API enables users to shorten URLs into manageable, unique short codes.
+[Deployed Link](https://url-shortner-api-lmwn.onrender.com).
 
 ## Overview
 
@@ -35,7 +36,7 @@ This URL Shortener API provides functionalities for user management, URL shorten
 
 ## API Documentation
 
-For detailed information on each endpoint, refer to the [Swagger Documentation](link).
+For detailed information on each endpoint, refer to the [Swagger Documentation](https://url-shortner-api-lmwn.onrender.com/api-docs).
 
 ## Technologies Used
 
